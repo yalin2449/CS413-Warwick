@@ -1,7 +1,7 @@
 # CS413-Warwick
 labs and practice of CS413
 
-##Learning Objectives
+## Learning Objectives
 
 At the end of the module the student should be able to:
 Understand and describe the fundamental principles of image and video analysis and have an idea of their application
